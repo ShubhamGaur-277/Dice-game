@@ -3,7 +3,12 @@
   margin: auto;
   text-align: center;
 }
-
+.custom{
+  display: flex;
+  margin: 80px auto;
+  align-items: center;
+  flex-direction: column-reverse;
+}
 .dice {
   text-align: center;
   display: inline-block;
